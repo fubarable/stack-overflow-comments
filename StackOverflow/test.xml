@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments>
+    <comment>
+        <title>title 1</title>
+        <text>text 1</text>
+        <tag>
+            <name>tag 1</name>
+        </tag>
+        <tag>
+            <name>tag 2</name>
+        </tag>
+        <tag>
+            <name>tag 3</name>
+        </tag>
+    </comment>
+    <comment>
+        <title>title 2</title>
+        <text>text 2</text>
+        <tag>
+            <name>tag 1</name>
+        </tag>
+        <tag>
+            <name>tag 2</name>
+        </tag>
+        <tag>
+            <name>tag 4</name>
+        </tag>
+    </comment>
+</comments>
