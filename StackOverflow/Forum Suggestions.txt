@@ -1,0 +1,449 @@
+Also, when posting code here, please use code tags so that your code will retain its formatting and thus will be readable -- after all, your goal is to get as many people to read your post and understand your code as possible, right?
+
+To do this, highlight your pasted code (please be sure that it is already formatted when you paste it into the forum; the code tags don't magically format unformatted code) and then press the code button, and your code will have tags.
+
+Another way to do this is to manually place the tags into your code by placing the tag [cod&#101;] above your pasted code and the tag [/cod&#101;] below your pasted code like so:
+
+[code]
+[code[i][/i]]
+  // your code goes here
+  // notice how the top and bottom tags are different
+[/code[i][/i]]
+[/code]
+
+_________________
+
+Your best bet here is to show us your code. We don't want to see all of it, but rather you should condense your code into the smallest bit that still compiles, has no extra code that's not relevant to your problem, but still demonstrates your problem, in other words, an SSCCE (Short, Self Contained, Correct (Compilable), Example). For more info on SSCCEs please look here:
+
+ [http://homepage1.nifty.com/algafield/sscce.html|http://homepage1.nifty.com/algafield/sscce.html] 
+
+Again, if the code is compilable and runnable more people will be able to help you.
+
+__________________________________________________________________
+Your best bet here is to show us compilable code. We don't want to see your whole program, but rather you should condense your code into the smallest bit that still compiles, has no extra code that's not relevant to your problem, but still demonstrates your problem, in other words, an SSCCE (Short, Self Contained, Correct (Compilable), Example). For more info on SSCCEs please look here:
+
+ [http://homepage1.nifty.com/algafield/sscce.html|http://homepage1.nifty.com/algafield/sscce.html] 
+
+Again, if the code is compilable and runnable more people will be able to help you.
+
+__________________________________________________________________
+
+Your best bet here is to show us compilable and runnable code. We don't want to see your whole program, especially if it's larger than 60 lines long, but rather you should condense your code into the smallest bit that still compiles and runs, has no extra code that's not relevant to your problem, but still demonstrates your problem, in other words, an SSCCE (Short, Self Contained, Correct (Compilable), Example). For more info on SSCCEs please look here:
+
+[url=http://sscce.org]SSCCE[/url]
+
+Again, if the code is compilable and runnable more people will be able to help you.
+
+___________________________
+Consider posting a minimal code example that demonstrates your problem, an [SSCCE](http://sscce.org). This will allow us to run your code and modify it and perhaps even correct it.  Please read the link before replying as it supplies many important details on the SSCCE requirements. 
+
+__________________________________________________________________
+Your best bet here is not to show your whole program, but to condense your question/problem into a single small class that is compilable by any and all of us, and demonstrates your problem.  In other words, a  [Short, Self Contained, Correct (Compilable), Example or SSCCE|http://homepage1.nifty.com/algafield/sscce.html] . 
+
+Remember, the code should be compilable and runnable for many of us to be able to understand it fully.
+
+Also, when posting your code, please use code tags so that your code will retain its formatting and be readable. To do this, you will need to paste [i]already formatted code[/i] into the forum, highlight this code, and then press the "code" button at the top of the forum Message editor prior to posting the message.  You may want to click on the Preview tab to make sure that your code is formatted correctly.  Another way is to place the tag &#91;code] at the top of your block of code and the tag &#91;/code] at the bottom, like so:
+
+[code]
+&#91;code]
+  // your code block goes here.
+  // note the differences between the tag at the top vs the bottom.
+&#91;/code]
+[/code]
+
+or 
+
+[code]
+{&#99;ode}
+  // your code block goes here.
+  // note here that the tags are the same.
+{&#99;ode}
+[/code]
+good luck
+__________________________________________________________________
+
+Your best bet here is to show us your code. We don't want to see all of it, but rather you should condense your code into the smallest bit that still compiles, has no extra code that's not relevant to your problem, but still demonstrates your problem, in other words, an SSCCE (Short, Self Contained, Correct (Compilable), Example). For more info on SSCCEs please look here:
+
+http://homepage1.nifty.com/algafield/sscce.html
+
+Remember, the code must be compilable and runnable for many of us to be able to understand it fully.
+
+Also, when posting your code, please use code tags so that your code will retain its formatting and be readable. To do this, you can will need to paste already formatted code into the forum, highlight this code, and then press the "code" button at the top of the forum Message editor prior to posting the message.  You may want to click on the Preview tab to make sure that your code is formatted correctly.  Another way is to place the tag &#91;code] at the top of your block of code and the tag &#91;/code] at the bottom, like so:
+
+[code]
+&#91;code]
+  // your code block goes here.
+  // note the differences between the tag at the top vs the bottom.
+&#91;/code]
+[/code]
+
+or 
+
+[code]
+{&#99;ode}
+  // your code block goes here.
+  // note here that the tags are the same.
+{&#99;ode}
+[/code]
+good luck, pete 
+
+_______________
+
+you should consider posting an SSCCE (Short, Self Contained, Correct (Compilable), Example, a condensed program similar to your current program in that it demonstrates the problem at hand, but is the smallest bit of code that still compiles and has no extra code that's not relevant to your problem.  For more info on SSCCEs please look here:
+
+http://homepage1.nifty.com/algafield/sscce.html
+
+
+
+You'll stand a much greater chance of any one here actually reading your code if you format it properly.  To do this, first paste code [i]that is already formatted correctly[/i], and then highlight your code and press the "code" button at the top of the forum Message editor.  An alternative technique is to manually place tags at the top and bottom of your block of code , like so:
+
+[code]
+&#91;code]
+  // your code block goes here.
+  // note that with this version, the tags are different
+&#91;/code]
+[/code]
+
+or 
+
+[code]
+{&#99;ode}
+  // your code block goes here.
+  // note that with this version, the tags are the same
+{&#99;ode}
+[/code]
+good luck, pete
+
+_____________
+
+> I have never done a SSCCE and I dont have the time to make one either. 
+Perhaps you're right, but if you post all of your code and ask us to go through it, it's asking a lot of us to invest a lot of our time and effort go through a large amount of code. Is your time more valuable than ours? Please ask yourself this question: who should be putting in more effort to solve this problem, you, who are asking volunteers to help you for free, or us, the volunteers?
+
+My vote is that if you still require help, an SSCCE would be highly appreciated, would be a sign of respect and appreciation for those who might help you, and would likely get you help sooner than if you don't make one.
+____________________________
+
+If you have no idea where to start, please have a look at this site here: [url=http://home.earthlink.net/~patricia_shanahan/beginner.html]Starting Writing a Program[/url]
+
+After reviewing this site and giving it a go, please feel free to come on back if you have any specific problems or questions regarding this problem or your code.
+
+We wish you the best of luck.
+_______________
+
+What you've done is to post your entire assignment without showing what work you've done, without asking a specific question, and that is not how to get help here (or at any forum). For one, we have no idea what you're having trouble with, so we won't know how to advise you. For another, if you don't at least try to solve what you can first, you're cheating yourself out a valuable part of your learning experience, and finally it suggests that you want someone to post a complete solution, thereby doing your homework for you, and I know that this was not your intent.
+
+So please try to solve as much of the problem that you can first, then post what you've done using code tags (see my signature), and then ask a specific question. Do this and you'll have many folks willing to help you.
+
+Much luck! 
+_______________
+
+What you've done is to post your entire assignment without showing what work you've done, and that is not how to get help here (or at any forum).  For one, we have no idea what you're having trouble with, so we won't know how to advise you.  For another, it suggests that you want someone to post a complete solution, thereby doing your homework for you, and I know that this was not your intent.
+
+So please try to solve the problem first, and then post what you've done using code tags (see my signature), and then ask a specific question.  Do this and you'll have many folks willing to help you.
+
+If you have absolutely no idea where to start, please have a look at this site here as it will give you some ideas: [URL="http://home.earthlink.net/~patricia_shanahan/beginner.html"]Starting Writing a Program[/URL]
+
+If you're still having problems, then please talk to your instructor.
+
+Much luck!
+____________________________
+
+General questions or questions stating that one is "totally lost" usually stimulate general answers, such as "google it". If you truly want help, you will put more effort into your question such as answering these questions:
+
+* What do you know already about doing this?
+* What sources have you looked up and studied?
+* Of this, what specifically do you not understand?
+* What is the current state of your program?
+* Is it running? compiling?
+* Are there errors? if so, post them.
+etc...
+
+The bottom line here is usually the more thought and effort you put into creating your question, the better your chances are of a volunteer here taking the time and effort to consider it and give you a helpful answer. You would benefit greatly by reading this link (one I try to re-study at least every other week as it helps me):
+http://www.catb.org/~esr/faqs/smart-questions.html
+
+------------------------------------------------------
+Let's see a decent try by you towards a solution first.  I've found that usually the more thought and effort posters put into creating and solving their questions, the better their chances are of a volunteer here taking the time and effort to consider it and give a helpful answer. 
+
+------------------------------------------------------
+A great resource that has helped me and will probably help you is an article entitled  [How To Ask Questions The Smart Way|http://www.catb.org/~esr/faqs/smart-questions.html] .  It will tell you how to formulate your questions so that the folks here will be better able to answer them.  Good luck.
+
+A great resource that has helped me and will probably help you is an article entitled [URL="http://www.catb.org/~esr/faqs/smart-questions.html"]How To Ask Questions The Smart Way[/URL].  It will tell you how to formulate your questions so that the folks here will be better able to answer them.  Good luck.
+
+------------------------------------------------------
+
+Please do not cross-post questions in multiple forums. This will frustrate anyone who tries to help you only to find out later that the same answer was given hours ago in a cross-posted thread. For this reason, many volunteers here and at the other sites refuse to help repeat offenders.
+------------------------------------------------------
+To the original poster, cross-posting without notifying all threads can frustrate anyone who tries to help you when they find out later that the same answer was given hours ago in a cross-posted thread.  No one likes wasting their time, especially a volunteer.  The polite thing to do would be that if you feel that you absolutely must cross-post, to at least provide links in both cross-posts to each other.
+
+------------------------------------------------------
+To the original poster, while cross-posting is allowed in this forum, doing so without notifying all threads can frustrate anyone who tries to help you when they find out later that the same answer was given hours ago in a cross-posted thread. No one likes wasting their time, especially a volunteer. The polite thing to do would be that if you feel that you absolutely must cross-post, to at least provide links in both cross-posts to each other.
+------------------------------------------------------
+
+If this doesn't help, try posting an  [SSCCE.|http://homepage1.nifty.com/algafield/sscce.html]  
+
+------------------------------------------------------
+You would be wise not to state this in your posts. Even if it is urgent to you, realize that it is not urgent to us. Many here take offense to this as it implies to them that a) the poster thinks that his post is more important than everyone else's, and b) that the poster wants to put pressure on the volunteers who come here to help on their own free time.  Just a friendly word of advice. 
+
+---------------------------------------------------
+Please know that the more you continue to post your homework questions here, the more you will cheat yourself of an education. For your own benefit you may wish to try to do more on your own. 
+
+---------------------------------------------------
+Be Forthright When Cross Posting To Other Sites
+
+There might be times when you are inclined to post a question not only at forums.sun.com, but also at some other site.
+When you do so, keep in mind that this is not generally in the interests of the posters who might be responding to your posts - those folks may find they've wasted their time. You certainly don't want to annoy those you want to help you, so you might want to make the experience as painless as possible.
+
+The best way to do something like this (without ticking people off) would be to let people know upfront that the crossposting is occurring. This makes the most sense if there's a respectable delay between posting in one forum and another, e.g:
+
+"I posted this question the other day in SomeOtherForum.com [link], but wasn't able to get a good answer, so now I'm asking here..."
+
+A responsible netizen might also post a followup in SomeOtherForum.com letting people there know if a better answer is found. 
+
+____________________________________________
+One word of unasked for advice:  Please avoid unnecessary abbreviations in your posts here.  I recommend this for several reasons:
+
+1)  Programming is an exercise in precision.  When you communicate here (or anywhere) about programming issues and questions, you want this communication to be as clear as possible to avoid any chance for ambiguity.   I'd say at least half the answers here are requests for clarification.  Let's avoid that.
+
+2)  For many here, English is not their first (or second or third) language.  It's hard enough for them to understand what people are posting here much less if it's couched in obscure and non-standard abbreviations.
+
+3)  Extra letters don't cost anything here, so you might as well use them.
+
+4)  It makes the poster seem a bit immature and thus for some not worthy of help.
+
+
+___________________________________
+
+The core Java list (many thanks to PhHein(?) jverd(?) for this list):
+
+[Sun's basic Java tutorial|http://java.sun.com/docs/books/tutorial/]
+
+[Sun's New To Java Center|http://java.sun.com/learning/new2java/index.html]
+Includes an overview of what Java is, instructions for setting up Java, an intro to programming (that includes links to the above tutorial or to parts of it), quizzes, a list of resources, and info on certification and courses.
+
+[jGuru|http://www.jguru.com]
+A general Java resource site. Includes FAQs, forums, courses, more.
+
+[JavaRanch|http://www.javaranch.com]
+To quote the tagline on their homepage: "a friendly place for Java greenhorns." FAQs, forums (moderated, I believe), sample code, all kinds of goodies for newbies. From what I've heard, they live up to the "friendly" claim.
+
+[Yawmarks List|http://forums.devshed.com/java-help-9/resources-for-learning-java-249225.html]
+
+[The Java Developers Almanac|http://www.amazon.com/exec/obidos/tg/detail/-/0201752808?v=glance]
+
+[http://javaalmanac.com|http://javaalmanac.com]
+
+Bruce Eckel's [Thinking in Java(Available online.)|http://mindview.net/Books/DownloadSites]
+
+Joshua Bloch's [Effective Java|http://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683]
+
+Bert Bates and Kathy Sierra's [Head First Java|http://www.amazon.com/exec/obidos/tg/detail/-/0596004656?v=glance ]
+
+James Gosling's [The Java Programming Language|http://www.bookpool.com/sm/0321349806]
+Gosling is the creator of Java. It doesn't get much more authoritative than this.
+
+Joshua Bloch and Neal Gafter [Java Puzzlers.|http://www.javapuzzlers.com/]
+
+___________________
+[completely lost assignment dump]
+First off, many here don't take too well to folks who post the entire assignment, without showing any work as many will assume that the poster wants someone else to do the assignment for them. I will assume that this isn't you, that you don't want someone to do it all for you.
+
+Secondly, our track record for helping folks who state they are "completely lost" is poor to dismal as there is only so much a forum can do in this situation. We can't put knowledge in your head; only you can do that. Often the best we can do is to point you to the most basic tutorials online and suggest that you start reading. Also, most in this situation are far better off going to their teacher and asking for some one-on-one face to face help.
+
+That being said, perhaps we can help you if you have some basic knowledge here, enough to understand what we are suggesting, and perseverance.  The first thing you need to do is to try to create this on your own as best you can, then come back with your code and with specific questions (not the "I'm completely lost" kind) that are answerable in the limited format of a Java forum. By posting your code, we can have a better idea of just where you're making bad assumptions or what Java subjects you need to read up on in the tutorials.
+
+Best of luck!
+
+______________________________
+Also, when posting your code, please use code tags so that your code will retain its formatting and be readable. To do this, you will need to paste [i]already formatted code[/i] into the forum, highlight this code, and then press the "code" button at the top of the forum Message editor prior to posting the message.  Another way is to place the tag &#91;code] at the top of your block of code and the tag &#91;/code] at the bottom, like so:
+
+[code]
+&#91;code]
+  // your code block goes here.
+  // note the differences between the tag at the top vs the bottom.
+&#91;/code]
+[/code]
+_____________________
+Hello and welcome to the forum.  You know of course that all of the folks here are volunteers who enjoy helping others learn Java, and we'll gladly help you with your code or with specific questions on how you can create a certain program.  On the other hand, what this forum isn't is a code-producing mill that gives out code on demand.  
+
+So on that note, let's see a decent try by you towards a solution first.  After you've done this and posted it with your specific questions, I'm sure that several of us will be be glad to help you along.
+
+Best of luck!
+
+___________________________________
+One problem with your code is that you're using == to check for String equivalence rather than use either the equals(...) or the equalsIgnoreCase(...) method. Understand that == checks if the two [i]objects[/i] are the same which is not what you're interested in. The methods on the other hand check if the two Strings have the same characters in the same order, and that's what matters here.  So instead of
+
+[code]
+if (fu == "bar") {
+  // do something
+}[/code]
+
+do, 
+
+[code]
+if (fu.equals("bar")) {
+  // do something
+}[/code]
+
+or,
+
+[code]
+if (fu.equalsIgnoreCase("bar")) {
+  // do something
+}[/code]
+
+__________________________________
+Don't compare Strings using `==`. Use the `equals(...)` or the `equalsIgnoreCase(...)` method instead. Understand that `==` checks if the two *objects* are the same which is not what you're interested in. The methods on the other hand check if the two Strings have the same characters in the same order, and that's what matters here.  So instead of
+
+    if (fu == "bar") {
+      // do something
+    }
+
+do, 
+
+    if ("bar".equals(fu)) {
+      // do something
+    }
+
+or,
+
+    if ("bar".equalsIgnoreCase(fu)) {
+      // do something
+    }
+
+____________________________
+Have you considered improving your accept rate? Please see [this link](http://meta.stackoverflow.com/questions/5234/how-does-accepting-an-answer-work) to learn how to fix this and to see why it is important to us.
+
+____________________________________
+
+
+Also please wrap your code in [code[i][/i]] [/code[i][/i]] tags so that it retains its formatting and is easier to read.
+
+________________________________________________________________________
+
+If you don't get help soon, consider creating and posting an [sscce](http://sscce.org) where you condense your code into the smallest bit that still compiles and runs, has no outside dependencies (such as need to link to a database or images), has no extra code that's not relevant to your problem, but still demonstrates your problem.
+
+_________________________________________________________________________________
+
+This has been asked and answered many times on this and other sites, so rather than having us regurgitating the same solutions that have been posted before, why not instead have us try to help you fix what you may be doing wrong currently?
+
+I suggest that you first of all try to do this sort of thing in a very simple and very small program that does nothing but show an image, and doesn't have all of the other unrelated components and code. This will make it much easier for us to understand and help you fix. Then if you're still having a problem, post this small compilable and runnable program. Some call this process of simplification "creating an [sscce](http://sscce.org)" (check the link), and even if you weren't asking a question on this site, it is a good debugging tool that you'll want to have in your Java coding tool belt.
+
+______________
+
+Your code as formatted is very difficult to read. Please consider editing your post and fixing your indentation style so that it is uniform and consistent. I usually avoid using tabs for indenting (forum software often doesn't play well with tabs) and indent each code block 3 spaces.
+
+_________________________________________________
+
+Please edit your post and wrap the code in code tags.
+[url=http://www.java-forums.org/misc.php?do=bbcode#code]BB Code List - Java Programming Forum - Learn Java Programming[/url]
+
+___________________________________________________________________________
+
+Your code is without any indentations making it all left justified and almost impossible to read, understand and debug. Please re-format your posted code by giving it proper indentations, usually 4 spaces per block, and making sure that all code on the same block is on the same indentation level. Your cooperation in this would be greatly appreciated and will likely improve your chances of getting a decent and prompt answer.
+
+___________________________________________________________________________
+
+Who'd have thought 30 years ago we'd be we'd all be sittin' here drinking Château de Chasselas using Google. You're lucky to have Google. We used to have to research our essays using public libraries. But you know, we were happy in those days, though we were poor.
+
+____________________________
+
+Useful Java Tutorials:
+
+* [The Really Big Index](http://docs.oracle.com/javase/tutorial/reallybigindex.html): the main tutorial where you should start.
+* [Using Swing Components](http://docs.oracle.com/javase/tutorial/uiswing/components/index.html): how to create Swing GUI's
+* [Lesson: Performing Custom Painting](http://docs.oracle.com/javase/tutorial/uiswing/painting/index.html): introductory tutorial to Swing graphics
+* [Painting in AWT and Swing](http://www.oracle.com/technetwork/java/painting-140037.html): advanced tutorial on Swing graphics
+
+___________________________________________________________________________
+
+You want to try something, anything. Just doing this will give you a better understanding of the problem and help you clarify your issues with this assignment. By posting this without showing your initial efforts, without asking a specific question, you're only hurting yourself. Do yourself a big favor, stretch your brain cells to their capacity and then some! 
+____________________________________________________________________________
+You will want to show us your attempt at solving this first, and you will want to ask a specific question or set of questions telling us exactly where you're stuck and what *specifically* you don't understand. Else your question translates to us, "please do my work for me", and I'm sure that's not what you meant,... is it?
+________________________________________
+
+By giving a spoon-fed answer, you are robbing the original poster of the opportunity of discovering the code for himself.
+
+__________________________________________________________________________
+
+Your question is somewhat incomplete as it doesn't tell us what you've tried, what you've searched for, where exactly you're stuck, etc. Please check out the Jon Skeet blog: [Asking the Perfect Question](http://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx). It will give you great suggestions on how to create better more complete questions and thus get better answers.
+
+_________________________________________
+`"Please don't actually comment..."` -- On a site that gives free advice, both good and bad, you can't control directly what folks post in comments or answers, nor should you. About all any of us can or should do is to be thankful that some folks have taken the time and effort to consider our problem, up-vote good advice, down-vote bad advice, ignore comments that we don't really care about, and report abusive posts. In fact, feel free to ignore these suggestions if you'd like.
+____________________________________
+If this were my problem and I were seeking help here, I'd take a little time to create and post a [minimal example program](http://stackoverflow.com/help/mcve) since I'd know that this would be the best and quickest way to get folks to fully understand my problem and then help me.
+______________________
+Consider creating and posting a [minimal example program](http://stackoverflow.com/help/mcve).
+
+_______________________
+For better help, consider creating and posting a [Minimal, Complete, and Verifiable Example Program](http://stackoverflow.com/help/mcve).
+
+_________________________
+I don't think that your posted code and text is adequate to allow us to understand your problem enough to answer it. If you don't get a decent answer soon, consider creating and posting a [Minimal, Complete, and Verifiable Example Program](http://stackoverflow.com/help/mcve).
+
+_______________________________________
+Please post pertinent code, preferably a [Minimal, Complete, and Verifiable Example Program](http://stackoverflow.com/help/mcve), here with your question, not in a link. Links can go dead, and links may hold large programs, programs too large to ask a volunteer to review. Your compliance with this request will be greatly appreciated and will likely help you in getting better and faster help.
+_______________________________________
+In the future, you'll get better help if you show your attempt to solve it first. If you don't do this, how will we know where you're stuck or what confuses you? Also your showing your effort gains much in terms of respect for you and your question, showing that you're willing to put in the effort and initiative to try to solve it yourself first.
+________________________________
+If you have absolutely no idea where to start, please have a look at this site here as it will give you some ideas: [Starting Writing a Program](http://home.earthlink.net/~patricia_shanahan/beginner.html), the key process being to break the big project down into small steps, and then solving each small step one at a time. If you're still having problems, then you might wish to consider talking to your instructor. Much luck!
+____________________________________
+More importantly, you need to learn the general concepts of how to debug a NPE (NullPointerException). **You should inspect the line carefully that throws the exception**, find out which variable is null, and then trace back into your code to see why. You will run into these again and again, trust me.
+___________________________________
+You should avoid use of null layout as this makes for very inflexible GUI's that while they might look good on one platform look terrible on most other platforms or screen resolutions and that are very difficult to update and maintain.
+
+_________________________________________
+Your gut instinct may be to use a `null` layout and calling `setBounds(...)` on your components to place them with absolute positioning, but I'm going suggest that you not do this as this makes for very inflexible GUI's that while they might look good on one platform look terrible on most other platforms or screen resolutions and that are very difficult to update and maintain. Instead you will want to study and learn the layout managers and then nest JPanels, each using its own layout manager to create pleasing and complex GUI's that look good on all OS's.
+____________________________________________
+This question as written is a `"guess what the code I'm not showing you is doing"` type question. Please fix this by creating and posting your [minimal code example program](http://stackoverflow.com/help/mcve) for us to review, test, and possibly fix.
+
+_______________________________________________
+This is a great site for you to come and ask specific questions, such as "how to fix the error that I'm getting on this line...", but your question is not really a question at all but a homework dump, and risks getting this question closed. To prevent this from happening, I urge you to show the fruits of your efforts, to ask specific and answerable questions about just where you're stuck, and to show your code. We'd love to help you with those, help you learn and finish the project yourself, but we don't want to finish your homework for you.
+_________________________
+As an aside, you will want to learn and use [Java naming conventions](http://en.wikipedia.org/wiki/Naming_convention_(programming)#Java). Variable names should all begin with a lower letter while class names with an upper case letter. Also you should avoid using trivial variable names such as `b` or `s` unless they are being used for trivial purposes such as the index of a for loop. Instead use names that have some meaning so that your code becomes self-commenting. 
+
+Following these suggestions as well as following good code formatting practices will allow others (such as us!) to better understand your code, and more importantly, will allow your future self to better understand just what you were thinking 6 months ago when you wrote the code.
+
+__________________
+You are painting yourself in a corner by having your class extend JFrame, forcing you to create and display JFrames, when often more flexibility is called for. In fact, I would venture that most of the Swing GUI code that I've created and that I've seen does **not** extend JFrame, and in fact it is rare that you'll ever want to do this. More commonly your GUI classes will be geared towards creating JPanels, which can then be placed into JFrames or JDialogs, or JTabbedPanes, or swapped via CardLayouts, wherever needed. This will greatly increase the flexibility of your GUI coding. 
+
+You will likely have one master View class/JPanel, and could swap its content with other sub-view classes that will correspond to the different states of your non-GUI model class.
+
+The tutorial can be found here: [CardLayout tutorial](http://docs.oracle.com/javase/tutorial/uiswing/layout/card.html).
+
+___________________________
+Some links:  [link 1](http://www.w3resource.com/java-tutorial/inheritance-composition-relationship.php), [link 2](http://www.coderanch.com/t/412328/java/java/Relationship), [link 3](http://www.artima.com/objectsandjava/webuscript/CompoInherit1.html), [link 4](http://www.javaworld.com/article/2076814/core-java/inheritance-versus-composition--which-one-should-you-choose-.html)
+______________________________
+You will want to try to write a clear and concise question. As written yours is a bit over broad and does not convey to us exactly what has you confused. Please have a look at [help] for more information on how to improve your question and increase your chances of getting decent help.
+
+__________________________
+
+I'm seeing that you've posted several requirements, but I don't see any focused and specific questions just yet. What have you done? Where exactly are you stuck? Please have a look at the [help] for more information on how to improve your question and increase your chances of getting decent help.
+________________________________
+If you don't get help soon, consider creating and posting a [Minimal, Complete, and Verifiable Example Program](http://stackoverflow.com/help/mcve) where you condense your code into the smallest bit that still compiles and runs, has no outside dependencies (such as need to link to a database or images), has no extra code that's not relevant to your problem, but still demonstrates your problem.
+__________________
+I can speak from experience by telling you that you shouldn't guess at this stuff as you'll invariably guess wrong. 
+
+__________________________
+ Please ask your questions with an eye towards our point of view -- folks who have absolutely no clue as to what you're trying to do or how your code is working and not working.
+
+_______________________________
+Please don't post code in comments since it loses its formatting making it unreadable. Instead, post any new code to the bottom of your original question by [editing your question](***). 
+
+_____________________
+Again you will need to create and post your [minimal code example program](http://stackoverflow.com/help/mcve) for us to allow us to understand your problem. Again, please read [this link](http://stackoverflow.com/help/mcve) to see how to create this.
+
+_________________________
+Please read the [help section on how to format your code](http://stackoverflow.com/editing-help) so that its readable. Then please edit your question to fix the formatting issues.
+
+____________________________
+When you're asking a question about an error in your code, it would be smart and helpful to post the full error message, and indicate in your code which line causes it.
+
+______________________________
+don't call `getGraphics()` on a component to get a Graphics object since the object thus obtained will not persist. To prove that this is true, minimize and then restore a rendered GUI, and you'll see your drawing disappear. Instead do your drawing in the `paintComponent` override of a JPanel or JComponent.
+
+___________________________
+Your question is a bit broad, making it hard to answer without either writing a complete tutorial or simply referring you to a tutorial. Much better would be for you to tell us exactly what has you stumped, exactly where you're stuck. Often times the best way for you to do this, and also the best way for you to complete your project is to try to "divide and conquer", to break your big problem into its small constituent steps, and then try to solve each small step one at a time. If a step is especially difficult, then try to subdivide it, and try to solve it in isolation from your big program. So here your steps can include...
+
+__________________________
+Don't ask -- try! You've got a computer programming laboratory at your fingertips, so use it. Experiment, play, write code, run it, change it, push it to the limit and then go beyond, find out what works what doesn't work. Trust me, you're not going to blow up your computer, you're not going to bring on doom and damnation from the effort. Don't ask us here -- find out for yourself. That's what learning and what programming is all about!
+______________________
+I've changed your [tag:java] tag to a [tag:javascript] tag. Please understand that these are two completely different programming languages, about as closely related as ham and hamburger are, that if you mis-tag your question you will not get the right experts in to review it, and that this may hurt your chances of getting decent help. Since I know absolutely nothing about Javascript, this is about all that I can do for you except to wish you well and hope that you get a decent answer soon.
